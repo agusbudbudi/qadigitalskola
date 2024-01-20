@@ -6,3 +6,6 @@ Repository Testing QA Digital Skola
 
 //test checkout -b testbranch
 //test merge
+
+//git add .
+//git commit -m "test merge"
