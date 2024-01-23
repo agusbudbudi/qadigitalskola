@@ -11,3 +11,5 @@ Repository Testing QA Digital Skola
 //git commit -m "test merge"
 
 //edit from github web readme
+
+// test git status
