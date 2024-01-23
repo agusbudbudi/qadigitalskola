@@ -13,3 +13,5 @@ Repository Testing QA Digital Skola
 //edit from github web readme
 
 // test git status
+
+//test git diff
