@@ -15,3 +15,5 @@ Repository Testing QA Digital Skola
 // test git status
 
 //test git diff
+
+//test git fetch edit from  github web
