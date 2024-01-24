@@ -19,4 +19,7 @@ Repository Testing QA Digital Skola
 //test git fetch edit from github web
 
 //TEST GIT REVERT
+<<<<<<< HEAD
 //test revert kedua kali
+=======
+>>>>>>> parent of eea3487 (test revert)
