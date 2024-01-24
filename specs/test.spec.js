@@ -6,3 +6,6 @@
 
 // test git fetch
 //test git merge
+
+//TEST REBASE UPDATE MAI
+//test git squash
